@@ -1,6 +1,6 @@
 # Welcome to this Polars Workshop
 
-Thanks to Liam Brannigan and his course on ["Data Analysis with Polars"](https://www.udemy.com/course/data-analysis-with-polars/), the content of the workshop is taken from his course. 
+Thanks to Liam Brannigan and his course on ["Data Analysis with Polars"](https://www.udemy.com/course/data-analysis-with-polars/), the content of the workshop is taken from his course. Please refer to his course and [website](https://braaannigan.github.io/)  
 
 ## Getting started
 
